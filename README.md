@@ -1,4 +1,4 @@
-# Business-Analysis-Project (UNILEVER Canteen Ordering System)
+# Business-Analysis-Project Overview
 
 This project was carried out by a team of Business Analysts led by Jeffrey Riddick Armah (Author).
 
